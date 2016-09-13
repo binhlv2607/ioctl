@@ -1,0 +1,1 @@
+cmd_/home/binhlv2607/Desktop/query1/query_ioctl.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/binhlv2607/Desktop/query1/query_ioctl.ko /home/binhlv2607/Desktop/query1/query_ioctl.o /home/binhlv2607/Desktop/query1/query_ioctl.mod.o
